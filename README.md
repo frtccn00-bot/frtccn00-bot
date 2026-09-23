@@ -19,3 +19,4 @@ English Translation & Interpreting student interested in translation, language l
 ## Projects
 
 Projects and resources will be added here as I continue building my portfolio.
+This profile is a work in progress.
