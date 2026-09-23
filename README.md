@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Fırat Çeçen
 
-<!--
-**frtccn00-bot/frtccn00-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+English Translation & Interpreting student interested in translation, language learning, teaching, tourism, and AI-assisted digital tools.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Translation & Interpreting
+- English Language Teaching
+- Tourism & Cultural Communication
+- AI-assisted translation and language tools
+- Digital tools and productivity
+
+## Currently Learning
+
+- Git & GitHub
+- AI-assisted workflows
+- Digital tools for translation and language learning
+
+## Projects
+
+Projects and resources will be added here as I continue building my portfolio.
